@@ -49,7 +49,7 @@ while True:
         print('Account balance in', account_no, 'is $',Acc_Bal)
 
     elif user_chioice == 4:
-        print('Goodbye, Thank you for doing business with us!',"\n")
+        print('Goodbye, Thank you for doing business with MA Bank!',"\n")
         break
 
     else:
